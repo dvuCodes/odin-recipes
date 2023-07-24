@@ -1,2 +1,3 @@
 # odin-recipes
-recipes website to practice html
+
+This website is for me to practice HTML&CSS through the Odin Project.
